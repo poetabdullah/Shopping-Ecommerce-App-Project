@@ -1,6 +1,3 @@
-Certainly! Below is a basic template for a README file for your e-commerce app on GitHub. You can copy and paste this into your repository's README.md file. Feel free to modify it to better suit your project:
-
-
 # SmartKart App
 
 SmartKart is a user-friendly and visually appealing e-commerce application that allows users to browse and shop for products across various categories. The app is designed to provide a seamless shopping experience with interactive features for both users and administrators.
